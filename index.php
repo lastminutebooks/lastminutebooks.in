@@ -19,7 +19,6 @@
     <nav>
       <div class="nav-wrapper blue">
         <a href="#!" class="brand-logo center">Lastminutebooks</a>
-        
       </div>
     </nav>
   </div>
