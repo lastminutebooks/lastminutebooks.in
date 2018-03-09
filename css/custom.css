@@ -1,0 +1,25 @@
+html{
+    font-weight: 300;
+}
+.mobile-fab-tip {
+    position: fixed;
+    right: 80px;
+    padding:0px 0.5rem;
+    text-align: right;
+    background-color: #323232;
+    border-radius: 2px;
+    color: #FFF;
+    width:auto;
+} 
+
+li .btn-floating{
+    transform: "scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px); opacity: 0";
+}
+
+span.badge.new {
+    font-weight: 300;
+    font-size: 0.8rem;
+    color: #fff;
+    border-radius: 2px;
+}
+
